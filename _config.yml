@@ -1,0 +1,28 @@
+name: ethereum
+favicon: null
+layout_spectrum: 0.4619690263643861
+typography_spectrum: 0.6518810589332134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.762607503682375
+  lightness: 0.240251844516024
+  saturation: 0.2941938559524715
+  rhythmicContrast: 0.7908669100143015
+purpose: []
